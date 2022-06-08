@@ -1,0 +1,30 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html,
+body{
+  background-color: #edf0f4;
+}
+
+.App{
+  display: block;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  padding-left: 250px;
+  padding-top: 15px;
+  font-family: Open-Sans;
+}
+
+.contenedor-secundario{
+  display: flex;
+}
+
+
+
+
+
+

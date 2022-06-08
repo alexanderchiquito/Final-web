@@ -1,0 +1,71 @@
+.img1{
+    width: 280px;
+    height: auto;
+    margin-left: 280px;
+    padding-top: 40px;
+}
+
+.img2{
+    width: 500px;
+    height: auto;
+}
+
+.contenedor-secundario p{
+    padding-top: 180px;
+    color: #29323d;
+}
+
+.Botoon{
+    margin-left: 180px;
+    background-color: #29323d;
+    color: #ffff;
+    font-family: Open-Sans;
+    font-weight: 500;
+    padding: 15px;
+    border-radius: 8px;
+}
+
+.contenedor-tercero{
+    padding-top: 50px;
+    color: #29323d;
+    font-family: Open-Sans;
+}
+
+.contenedor-tercero h1{
+    margin-left: 280px;
+}
+.contenedor-tercero p{
+    margin-left: 250px;
+    padding-top: 40px;
+    font-size: 20px;
+}
+
+.contenedor-input-button{
+    margin-left: 220px;
+    padding-top: 40px;
+}
+
+.contenedor-input-button input{
+    padding: 20px;
+    padding-left: 60px;
+    font-size: 20px;
+    font-family: Open-Sans;
+}
+
+.Boton-sub{
+    margin-left: 10px;
+    background-color: #29323d;
+    color: #ffff;
+    font-family: Open-Sans;
+    font-size: 20px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+footer{
+    font-size: 18px;
+    font-family: Open-Sans;
+    margin-left: 380px;
+    padding-top: 40px;
+    color: #b0b6be;
+}
